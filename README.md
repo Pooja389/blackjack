@@ -35,3 +35,6 @@ This is a simple console-based Blackjack game implemented in Python. The game al
 1. Run the `blackjack.py` file:
    ```bash
    python blackjack.py
+   
+## License
+This project is licensed under the MIT License.
